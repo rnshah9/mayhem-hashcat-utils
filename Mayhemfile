@@ -1,5 +1,5 @@
-project: rnshah9/mayhem-hashcat-utils
-target: combipow
+project: hashcat-utils
+target: combipow-bin
 
 cmds:
   - cmd: /repo/src/combipow.bin @@
