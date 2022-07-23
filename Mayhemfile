@@ -2,4 +2,4 @@ project: hashcat-utils
 target: combipow-bin
 
 cmds:
-  - cmd: /repo/src/combipow.bin @@
+  - cmd: combipow.bin @@
